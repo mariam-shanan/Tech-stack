@@ -11,7 +11,7 @@
 ![java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black)
 
 ## Learning Journey
 I'm currently on an exciting journey of expanding my skills in various fields of technology. Here's what I'm diving into:
@@ -19,9 +19,6 @@ I'm currently on an exciting journey of expanding my skills in various fields of
 
 
 About me👋🏻
-
-```markdown
-## 👋 About Me
 
 I'm a passionate developer on a continuous learning journey in the world of technology. I love exploring new tools and frameworks while building my skills in web development and data science.
 
@@ -31,5 +28,6 @@ I'm a passionate developer on a continuous learning journey in the world of tech
 - 💻 **Tech Stack**: Python, JavaScript, React, Git
 - 🎯 **Goal**: To become a full-stack developer
 - 📫 **How to reach me**: [basmaalhya9@gmail.com]
-```
+
+
 
