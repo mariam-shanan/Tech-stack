@@ -11,7 +11,7 @@
 ![java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=blue)
 
 ## Learning Journey
 I'm currently on an exciting journey of expanding my skills in various fields of technology. Here's what I'm diving into:
