@@ -6,27 +6,17 @@ My personal tech stack, skills, and learning journey in programming and web deve
 
 ### Python
 JS JAVASCRIPT
-
-C++  
-PHP  
-
+C
 ---
 
 ## Web Development
 
-- HTML5  
+- HTML5 
   CSS3  
-  REACT  
-
+  java 
 ---
-
-
-
----
-
 ## Tools
 GITHUB  
-
 ---
 
 ## Learning Journey
