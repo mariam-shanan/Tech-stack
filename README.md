@@ -16,3 +16,20 @@
 ## Learning Journey
 I'm currently on an exciting journey of expanding my skills in various fields of technology. Here's what I'm diving into:
 ```
+
+
+About me👋🏻
+
+```markdown
+## 👋 About Me
+
+I'm a passionate developer on a continuous learning journey in the world of technology. I love exploring new tools and frameworks while building my skills in web development and data science.
+
+- 🔭 **Currently working on**: Improving my programming skills
+- 🌱 **Currently learning**: Web Development & Data Science
+- 💡 **Interested in**: AI, Machine Learning, and Open Source
+- 💻 **Tech Stack**: Python, JavaScript, React, Git
+- 🎯 **Goal**: To become a full-stack developer
+- 📫 **How to reach me**: [basmaalhya9@gmail.com]
+```
+
